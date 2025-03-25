@@ -1,0 +1,48 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Ignore IntelliJ IDEA workspace-specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/vcs.xml
+
+# Ignore IntelliJ IDEA project-specific settings
+.idea/**/modules.xml
+.idea/**/modules.xml
+.idea/**/misc.xml
+.idea/**/inspectionProfiles
+.idea/**/gradle.xml
+.idea/**/artifact.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.swp
+
+# Ignore Eclipse specific project files
+.eclipse/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class
